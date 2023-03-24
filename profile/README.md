@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+整理记录个人Web学习过程，不定时更新
+
 <!--
 
 **Here are some ideas to get you started:**
