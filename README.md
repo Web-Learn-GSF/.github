@@ -1,3 +1,2 @@
-# .github
-
-Web学习整理
+# Web学习
+click https://github.com/Web-Learn-GSF to access the organization
